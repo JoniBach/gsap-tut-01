@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/JoniBach/gsap-tut-01/static/css/main.7d746bd5.chunk.css",
+    "main.js": "/JoniBach/gsap-tut-01/static/js/main.9da70d0c.chunk.js",
+    "main.js.map": "/JoniBach/gsap-tut-01/static/js/main.9da70d0c.chunk.js.map",
+    "runtime-main.js": "/JoniBach/gsap-tut-01/static/js/runtime-main.869e6f45.js",
+    "runtime-main.js.map": "/JoniBach/gsap-tut-01/static/js/runtime-main.869e6f45.js.map",
+    "static/js/2.df03124b.chunk.js": "/JoniBach/gsap-tut-01/static/js/2.df03124b.chunk.js",
+    "static/js/2.df03124b.chunk.js.map": "/JoniBach/gsap-tut-01/static/js/2.df03124b.chunk.js.map",
+    "static/js/3.7e44b6f3.chunk.js": "/JoniBach/gsap-tut-01/static/js/3.7e44b6f3.chunk.js",
+    "static/js/3.7e44b6f3.chunk.js.map": "/JoniBach/gsap-tut-01/static/js/3.7e44b6f3.chunk.js.map",
+    "index.html": "/JoniBach/gsap-tut-01/index.html",
+    "static/css/main.7d746bd5.chunk.css.map": "/JoniBach/gsap-tut-01/static/css/main.7d746bd5.chunk.css.map",
+    "static/js/2.df03124b.chunk.js.LICENSE.txt": "/JoniBach/gsap-tut-01/static/js/2.df03124b.chunk.js.LICENSE.txt",
+    "static/media/arrow-right.94dbe206.svg": "/JoniBach/gsap-tut-01/static/media/arrow-right.94dbe206.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.869e6f45.js",
+    "static/js/2.df03124b.chunk.js",
+    "static/css/main.7d746bd5.chunk.css",
+    "static/js/main.9da70d0c.chunk.js"
+  ]
+}
