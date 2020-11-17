@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/gsap-tut-01/static/css/main.7d746bd5.chunk.css",
-    "main.js": "/gsap-tut-01/static/js/main.9da70d0c.chunk.js",
-    "main.js.map": "/gsap-tut-01/static/js/main.9da70d0c.chunk.js.map",
+    "main.js": "/gsap-tut-01/static/js/main.c0ced947.chunk.js",
+    "main.js.map": "/gsap-tut-01/static/js/main.c0ced947.chunk.js.map",
     "runtime-main.js": "/gsap-tut-01/static/js/runtime-main.20ae670b.js",
     "runtime-main.js.map": "/gsap-tut-01/static/js/runtime-main.20ae670b.js.map",
     "static/js/2.df03124b.chunk.js": "/gsap-tut-01/static/js/2.df03124b.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.20ae670b.js",
     "static/js/2.df03124b.chunk.js",
     "static/css/main.7d746bd5.chunk.css",
-    "static/js/main.9da70d0c.chunk.js"
+    "static/js/main.c0ced947.chunk.js"
   ]
 }
